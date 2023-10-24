@@ -13,3 +13,7 @@ This is the GitHub repository contain the assets mentioned in the experiential r
 
 CMU 17-313, Foundations of Software Engineering is a class that explores these issues while broadly covering the fundamentals of modern software engineering. 
 
+## Authors 
+
+Victor Huang Weiqi, Kori Krueger, Taya Cohen, Michael Hilton
+
