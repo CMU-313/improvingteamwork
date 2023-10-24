@@ -1,6 +1,6 @@
 # Improving Software Engineering Teamwork with Structured Feedback
 
-This is the GitHub repository contain the assets mentioned in the experiential report as titled. This repository ensures a permanent link to all the documents mentioned in the report.
+This repository contain the assets mentioned in the experiential report as titled. This repository ensures a permanent link to all the documents mentioned in the report.
 
 1. [Teamwork Contract](/teamwork-contract.md)
 2. [Team Retrospective](/team-retrospective.md)
