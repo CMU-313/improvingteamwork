@@ -3,7 +3,7 @@
 This repository contain the assets mentioned in the experiential report as titled. This repository ensures a permanent link to all the documents mentioned in the report.
 
 1. [Teamwork Contract](/teamwork-contract.md)
-2. [Team Retrospective](/teamwork-retrospective.md)
+2. [Teamwork Retrospective](/teamwork-retrospective.md)
 3. [Team Dysfunction](/team-dysfunction.md)
 4. [Team Action Plan](/team-action-plan.docx)
 
