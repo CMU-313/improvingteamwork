@@ -4,7 +4,7 @@ This repository contain the assets mentioned in the experiential report as title
 
 1. [Teamwork Contract](/teamwork-contract.md)
 2. [Team Retrospective](/team-retrospective.md)
-3. [Team Dysfunction](/team-dysfuntion.md)
+3. [Team Dysfunction](/team-dysfunction.md)
 4. [Team Action Plan](/team-action-plan.docx)
 
 ## About CMU 17-313
