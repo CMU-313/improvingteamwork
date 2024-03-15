@@ -1,5 +1,7 @@
 # Improving Software Engineering Teamwork with Structured Feedback
 
+[Open Access Article](https://dl.acm.org/doi/abs/10.1145/3626252.3630877)
+
 This repository contain the assets mentioned in the experiential report as titled. This repository ensures a permanent link to all the documents mentioned in the report.
 
 1. [Teamwork Contract](/teamwork-contract.md)
