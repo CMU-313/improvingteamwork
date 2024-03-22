@@ -20,5 +20,5 @@ CMU 17-313, Foundations of Software Engineering is a class that explores these i
 
 ## Authors 
 
-Victor Huang Weiqi, Kori Krueger, Taya Cohen, Michael Hilton
+[Victor Huang Weiqi](https://www.linkedin.com/in/victorhuangwq), [Kori Krueger](https://www.morgan.edu/psychology/faculty-and-staff/kori-krueger), [Taya Cohen](https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/cohen-taya.html), [Michael Hilton](https://www.cs.cmu.edu/~mhilton/)
 
